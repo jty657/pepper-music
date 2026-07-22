@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">胡椒音乐</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="next">下一首</string>
+    <string name="previous">上一首</string>
+    <string name="shuffle">随机播放</string>
+    <string name="repeat">循环播放</string>
+    <string name="no_songs">暂无歌曲</string>
+</resources>
